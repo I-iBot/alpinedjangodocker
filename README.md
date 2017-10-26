@@ -8,4 +8,4 @@ docker build -t alpinedjangodocker .
 
 ### run 
 
-docker run -p 8005:8005 -d alpinedjangodocker
+docker run -p 8000:8000 -d alpinedjangodocker
